@@ -1,0 +1,19 @@
+body {
+  background-color: #d8e2dc;
+  margin-top: 1%;
+}
+.container {
+  padding: 1%;
+  margin: 0 auto;
+}
+.col {
+  margin-bottom: 1%;
+}
+.icon {
+  height: 100px;
+  width: 100px;
+  margin: 5% auto;
+}
+.btn {
+  border-radius: 50px;
+}
